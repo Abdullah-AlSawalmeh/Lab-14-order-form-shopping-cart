@@ -199,3 +199,9 @@ label span {
   color: red;
   cursor: pointer;
 }
+
+ul li {
+
+  color: #fff;
+  margin-left: 10px;
+}
